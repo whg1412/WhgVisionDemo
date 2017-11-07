@@ -1,1 +1,2 @@
 # WhgVisionDemo
+Vision图像识别框架的一个Demo,实现了人脸识别和人脸特征识别
